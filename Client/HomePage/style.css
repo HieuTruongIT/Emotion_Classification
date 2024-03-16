@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heder .logo{
+    margin: 20px;
+    width: 50%;
+    height: auto;
+    float: left;
+}
+.heder .menu{
+    float: left;
+    width: 40%;
+}
+.heder .logo img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+.heder .logo  span{
+    padding-top: 15px;
+    padding-left: 20px;
+    float: left;
+    font-size: 20px;
+    color: #ffbf00;
+    font-weight: bold;
+}
+.menu ul li{
+    margin: 20px ;
+    padding:10px;
+    float: left;
+    list-style: none;
+    color: #ffbf00;
+    padding: 0px 10px;
+}
